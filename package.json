@@ -2,7 +2,7 @@
   "name": "BIP32-Encryption",
   "version": "0.0.0",
   "description": "Javascript implementation of proposed BIP32 encryption scheme",
-  "main": "index.js",
+  "main": "lib/bip32encryption.js",
   "scripts": {
     "test": "gulp test"
   },
@@ -12,5 +12,15 @@
     "encryption"
   ],
   "author": "John Kozan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^1.10.0",
+    "gulp-mocha": "^2.0.1",
+    "gulp-notify": "^2.2.0",
+    "mocha-spec-reporter-async": "^0.5.6"
+  }
 }
