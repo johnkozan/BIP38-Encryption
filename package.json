@@ -14,11 +14,13 @@
   "author": "John Kozan",
   "license": "MIT",
   "dependencies": {
-    "chai": "^2.3.0",
-    "gulp": "^3.8.11"
+    "bs58check": "^1.0.5",
+    "sha512": "0.0.1"
   },
   "devDependencies": {
     "gulp-jshint": "^1.10.0",
+    "chai": "^2.3.0",
+    "gulp": "^3.8.11",
     "gulp-mocha": "^2.0.1",
     "gulp-notify": "^2.2.0",
     "mocha-spec-reporter-async": "^0.5.6"

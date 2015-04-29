@@ -1,0 +1,87 @@
+{
+  "valid": [
+  {
+    "rootKey" : "000102030405060708090a0b0c0d0e0f",
+    "privKey" : "e8f32e723decf4051aefac8e2c93c9c5b214313817cdb01a1494b917c8436b35",
+    "creationDate" : "04-02-2014",
+    "date" : 57,
+    "clear" : "RK6nEaou4eFQC4SfrHtdh9jpnEme4K9dt2jBmG",
+    "password" : "Satoshi",
+    "fakePassword" : "Alpaca",
+    "saltEntrpy" : "abcd",
+    "kdf0" : "rk354bQrbuzi9tVCt48rv9CCrc1Mi7sk9m3Yykpt3",
+    "fakePrivKey0" : "cf345038e7b0068d50e796756a3df60314f6edb7bc47c9ee7b4d73678668cdcb",
+    "kdf1" : "rk354bf4mvtwNXcLdcfppZECW4AoUBvTB8S23agNs",
+    "fakePrivKey1" : "632c122124ba9905be5e02078d36ba63b7588edd2c68f1b385b9d6c2ca3e0817",
+    "kdf8" : "rk354dNXRL2jSEL5Neh6ndDsxNgvRoP3Tt4oMqLTV",
+    "fakePrivKey8" : "a44ca5f6b4f38385e4a5cc751ace5d2117e3305aee52827286cbc981f00e80da",
+    "kdf9" : "rk354dcjNKEyDFwVgYrdCQnkZYpUWzhyjMY16enLT",
+    "fakePrivKey9" : "29e35fd44226c74117022b7e3079687bc2fa6391998753bc978509a8d9c5c323"
+  },
+  {
+    "rootKey" : "7f0ad7d595be13e6fe4cf1fa0fbb6ae9c26c5d9b09920709414982b6363d5844",
+    "privKey" : "08965cb883e1c8783d72b65a0b7104d64baa9412eb655a6f05c5aaa6103781be",
+    "creationDate" : "04-02-2014",
+    "date" : 57,
+    "clear" : "RK22qqMb3CozsQfTTbSVsLEgXcjekut99SuSHn6urU4vWxjiQneHWVYabWgv",
+    "password" : "Nakamoto",
+    "fakePassword" : "hunter2",
+    "saltEntrpy" : "defg",
+    "kdf0" : "rk2cMHcqyHdHNudopX8ZXwbrXgXK182FXpQJgiNdJbDGZXUpdWjfayTqi9tryTbS",
+    "fakePrivKey0" : "7645740391ba1c5ef56286a1f43e8f95ac0b66de3bffb5ad3922ec140b7ad28f",
+    "kdf1" : "rk2cMJD2R82kefxdoLEmXM3B8ox336pr2mbUNasLvEGKpZHzUMToWQyWmn6Y7szk",
+    "fakePrivKey1" : "ffd47e0d8fa64a9a696b4c3b7128fe416f1363aee1ddf6acfd2dd433c2e6bee6",
+    "kdf8" : "rk2cMNLHXGrjxDyBtQvM1Ef5AxiGgtHympDceeMoCqj9mhqteoeFtPRpc1PXXMfd",
+    "fakePrivKey8" : "96b831152e40d5461470729b88429c340de9c117c0d2af7564f91eb7e5f18443",
+    "kdf9" : "rk2cMNvTy3VED3dCysRmZ6JswXAN2eYtA5oWegufDYNr7YQx2QHLbp3iie49u9Wf",
+    "fakePrivKey9" : "391edef21757317e5bf1df133c0000ae86f982ad3b340ab5876a33fb057930a8"
+  },
+  {
+    "rootKey" : "fffcf9f6f3f0edeae7e4e1dedbd8d5d2cfccc9c6c3c0bdbab7b4b1aeaba8a5a29f9c999693908d8a8784817e7b7875726f6c696663605d5a5754514e4b484542",
+    "privKey" : "4b03d6fc340455b363f51020ad3ecca4f0850280cf436c70c727923f6db46c3e",
+    "creationDate" : "04-02-2014",
+    "date" : 57,
+    "clear" : "RK2BvY13FUD6bX25tA7XDyfAn7zbXSL8pR6TRE3EHZZ8qBm9qEyZRih8x1XhhcZwjcTfpe1Qjydn4KUdia8Wf1NshUusP1D38i88MLU9",
+    "password" : "Vires In Numeris",
+    "fakePassword" : "Quis Custodiet Ipsos Custodes?",
+    "saltEntrpy" : "hijk",
+    "kdf0" : "rk5ySVNYwdRMDLnyxs1pXCdN3wrcBdPziWUudFidmwSfcJaZKPH8U24WSegPhidQiD7tXejMNQfxrARh9JG8jLFtMY39fo9unpB4PsPSKymqy",
+    "fakePrivKey0" : "0625f1c1e50cb7c3f302ff37d5eaa0fe20f45b10eb13634f4403b71dd3e49526",
+    "kdf1" : "rk5ySW9NGHgAxs48UvF5oWvb6PHsZte43p1vjKmYuybLyGNrSMVHAkypTfb9qLFNTFixfCrxqnT3a8Vc5UoTcBzRxjLQAwYMoB7YcmzCWdVtD",
+    "fakePrivKey1" : "4a525d10640a9ccd26bbcc1af8a4803803e97628b7e7b6f0db5376c94021c83b",
+    "kdf8" : "rk5ySbZ5WuX3ba2Pudt1HE6iDQf7cSMg4zTsWbMKdFhucAwJEjNwH48oqCC52mbh3jxTQEGXN294AzxYsDbJowkiHSocGqWh7SFy24sE9KHGn",
+    "fakePrivKey8" : "83d025017755701dbfcf5b50d07a95a99d517c15f40f0bec5529ae1cc3e39ba0",
+    "kdf9" : "rk5yScKtqZmWe5FAB54x7WvvuxDSnNg81J3CADPdh4GJ4t2QaHckv8iuWF2spbC6uDC7DSM3GkYSQvNtz88su2h89vj9yUpmECmeELH2TkzM5",
+    "fakePrivKey9" : "c16e82babbf14512c9acde344a817693d2f401d2c73c7aeacdd21c455a9d5dd8"
+  },
+  {
+    "rootKey" : "6ca4a27ac660c683340f59353b1375a9",
+    "privKey" : "f544dd076ffe8fb68aa81ca9a33059946e9a91f8d95258ae1b7a1db6215ce51a",
+    "creationDate" : "04-02-2014",
+    "date" : 57,
+    "clear" : "RK6nEmXZj2nqgtCVWk3s7Suvz2XtWrdhDPpJqS",
+    "password" : "聡中本",
+    "fakePassword" : "Bitcoin",
+    "saltEntrpy" : "lmno",
+    "kdf0" : "rk354bWG9c8dupPhhYsKgFEcZ8uqxV7JKbvbsmnzh",
+    "fakePrivKey0" : "b5af32696fe4bd75015d55f52a5bec16af4de74c256458ba8fdba7702509b7ca",
+    "kdf1" : "rk354bkUKo7gu3vhdadunrCUSSjJuQrQwyRXoydTE",
+    "fakePrivKey1" : "de80aba55dee465b979a71a90d43c9a1f594eaaa30086944b8280603783ff4b8",
+    "kdf8" : "rk354dTvdLGCSSPHP8tjFeLXMhwybvE47szr2jUPH",
+    "fakePrivKey8" : "54b9fbe968a76327b452d0f7af1c74dfff34cddc4884ec6c65d1d1f66b3df79d",
+    "kdf9" : "rk354di8idN7qLmnbYSsFgjPbeHQ4b9CxSSviqXiH",
+    "fakePrivKey9" : "247f6877db617c7a28a45c44a97041d055f0c664f109e2b6c1f3d9702dcaaeaa"
+  }
+  ],
+  "invalid": {
+    "makeWallet": [
+    {
+      "description": "Invalid length root key",
+      "exception": "Root Key must be 16, 32 or 64 byte string",
+      "rootKey":  "6ca4a27ac660c683340f59353b1375a9FFFFFF",
+      "saltEntrpy" : "lmno",
+      "password" : "聡中本"
+    }
+    ]
+  }
+}
