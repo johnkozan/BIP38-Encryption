@@ -73,15 +73,27 @@
     "fakePrivKey9" : "247f6877db617c7a28a45c44a97041d055f0c664f109e2b6c1f3d9702dcaaeaa"
   }
   ],
-  "invalid": {
-    "makeWallet": [
-    {
-      "description": "Invalid length root key",
-      "exception": "Root Key must be 16, 32 or 64 byte string",
-      "rootKey":  "6ca4a27ac660c683340f59353b1375a9FFFFFF",
-      "saltEntrpy" : "lmno",
-      "password" : "聡中本"
+    "invalid": {
+      "makeWallet": [
+      {
+        "description": "Invalid length root key",
+        "exception": "Root Key must be 16, 32 or 64 byte string",
+        "rootKey":  "6ca4a27ac660c683340f59353b1375a9FFFFFF",
+        "saltEntrpy" : "lmno",
+        "password" : "聡中本"
+      }
+      ],
+        "decryptWallet": [
+        {
+          "description": "Unknown wallet type",
+          "exception": "Unknown wallet type",
+          "clear" : "RLFiMiscfVK3rLZXV5M8vx7oR2dG7chmpfsPchbsjUeimVeEAWhA4boZFF3t"
+        },
+        {
+          "description": "Checksum mismatch",
+          "exception": "Checksum mismatch",
+          "clear" : "RK15fXAj9BEMooghtx2gY5YrSh23LZWv3azMFZ9NkLwAZfRbwFz4caBQpeHn"
+        }
+      ]
     }
-    ]
-  }
 }

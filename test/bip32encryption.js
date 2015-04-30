@@ -32,6 +32,25 @@ describe('BIP32 encryption', function() {
         }, new RegExp(f.exception));
       });
     });
+  });
+
+  describe('decryptWallet', function() {
+    fixtures.valid.forEach(function(f) {
+
+      it('should deserialize unencrypted wallet ' + f.clear, function() {
+        var wallet = bip32e.decryptWallet(f.clear);
+        assert.equal(wallet.rootKey, f.rootKey);
+        assert.equal(wallet.date, f.date);
+      });
+    });
+
+    fixtures.invalid.decryptWallet.forEach(function(f) {
+      it('should throw ' + f.description, function() {
+        assert.throws(function() {
+          bip32e.decryptWallet(f.clear);
+        }, new RegExp(f.exception));
+      });
+    });
 
   });
 });
